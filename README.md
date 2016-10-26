@@ -1,4 +1,4 @@
-Nano ESP32_SSD1306_OLED_Example
+# Nano ESP32_SSD1306_OLED_Example
 Simple implementation for an 0.96" I2C OLED Display with a Nano ESP32
 
 1. Download the AcroboticSSD1306 Library in Arduino IDE.
